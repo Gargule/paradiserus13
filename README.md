@@ -8,7 +8,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
 
-[Website](https://nanotrasen.se/) - [Code](https://github.com/ParadiseSS13/Paradise) - [Discord](https://discordapp.com/invite/gXZMc?utm_source=Discord%20Widget&utm_medium=Connect)
+[Code](https://github.com/paradiserusstation/paradiserus13) - [Discord](https://discord.gg/hHR9UHh)
 
 ---
 
@@ -22,7 +22,7 @@ You'll need to download git or some client from [here](http://git-scm.com/).
 When that's installed, right click in any folder and click on "Git Bash".  
 When that opens, type in:
 
-    git clone https://github.com/ParadiseSS13/Paradise.git
+    git clone https://github.com/paradiserusstation/paradiserus13/Paradise.git
 
 (hint: hold down ctrl and press insert to paste into git bash)
 
